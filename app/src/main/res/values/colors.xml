@@ -7,4 +7,6 @@
     <color name="colorLightPrimary">#75DBE4</color>
     <color name="colorPrimaryText">#000000</color>
     <color name="colorSecondaryText">#FFFFFF</color>
+    <color name="colorDivider">#FF5722</color>
+
 </resources>
